@@ -24,6 +24,5 @@ I am based in Austria and love to work with frontend technologies such as Vue.js
 
 ### Links:
 
-[![My website](https://img.shields.io/badge/-📄%20My%20Website-000?)](https://patriscus.com/)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=twitter&logoColor=1da1f2)](https://twitter.com/patriscus/)
 [![dev.to](https://img.shields.io/badge/-dev.to-000?&logo=dev.to&logoColor=fff)](https://dev.to/patriscus/)
